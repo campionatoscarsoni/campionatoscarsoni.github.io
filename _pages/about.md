@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Campionato Italiano Scarsoni (CIS) è un campionato altamente competitivo tra piloti (scarsoni) di diverse scuderie.
+Stanchi di invidiare i piloti talentuosi ed essere consapevoleli di essere più lenti di un divano letto?
+
+Bene il CIS, **Campionato italiano Scarsoni** viene in vostro aiuto!
+
+Siamo un gruppo di persone come voi consapevoli di non aver alcun tipo di talento motoristico, e quindi perché non organizzare un campionato tutto nostro? Sia che siate piloti o spettatori potrete finalmente dire "meno male che ci sono loro che forse sono peggio di me."
 
 ## Latest News
 [19/09 - Quarto Trofeo Fermoni](/news/19_09_24_cis_news)
