@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "News"
+    url: /news/
+
   - title: "Calendario"
     url: /calendario/
 
@@ -9,8 +12,6 @@ main:
   # - title: "Publications"
   #   url: /publications/
 
-  # - title: "Talks"
-  #   url: /talks/    
 
   # - title: "Teaching"
   #   url: /teaching/    

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Calendario"
+title: "Calendario 4° Campionato C.I.S."
 permalink: /calendario/
 author_profile: true
 redirect_from:
@@ -9,17 +9,43 @@ redirect_from:
 
 {% include base_path %}
 
-### Stagione 2024
+### Tracciati
 
-| Circuito | Data | Numero Giri | Vincitore |
-| ---- | ---- | ---- | ---- |
-| [Circuit de Barcelona-Catalunya](https://it.wikipedia.org/wiki/Circuito_di_Barcellona-Catalogna) | 23/04 | 29 | [Polano](#)
-| [Indianapolis Motor Speedway](https://it.wikipedia.org/wiki/Indianapolis_Motor_Speedway) | 09/05 | 35 | - |
-| [British Grand Prix](https://it.wikipedia.org/wiki/Circuito_di_Silverstone) | 23/05 | 26 | - |
-| [Suzuka International Racing Course](https://it.wikipedia.org/wiki/Circuito_di_Suzuka) | 06/06 | 26 | - |
-| [Brands Hatch](https://it.wikipedia.org/wiki/Circuito_di_Brands_Hatch) | 20/06 | 34 | - |
+| **Round** | **Circuit Name**                          | **Winner**            |
+|-----------|--------------------------------------------|-----------------------|
+| 1°        | Grand Oak Raceway, Circuito Nazionale      | [Winner]              |
+| 2°        | Mugello, Circuito Completo                 | [Winner]              |
+| 3°        | Barcellona-Catalunya, Circuito Gran Premio | [Winner]              |
+| 4°        | Hockenheimring, Circuito Completo          | [Winner]              |
+| 5°        | Spa Francorchamps                          | [Winner]              |
+| 6°        | Daytona Intl Speedway, Circuito Auto Sportive | [Winner]          |
+| 7°        | Kyalami                                    | [Winner]              |
+| 8°        | Sebring Intl Raceway, Circuito Completo    | [Winner]              |
+| 9°        | Yas Marina, Circuito Completo              | [Winner]              |
+| 10°       | Road Atlanta                               | [Winner]              |
+
 
 ### Classifica Piloti
+
+| **Position** | **Pilot Name**      | **Points**  |
+|--------------|---------------------|-------------|
+| 1°           | D91 #1              | 0    |
+| 2°           | Nicola Slevin #7    | 0    |
+| 3°           | Pietrowade #9       | 0    |
+| 4°           | Marieleveze #10     | 0    |
+| 5°           | Eliakoby #11        | 0    |
+| 6°           | F40Manfro #22       | 0    |
+| 7°           | Maxwhitedragon #23  | 0    |
+| 8°           | ReYz Iann #29       | 0    |
+| 9°           | Polano #42          | 0    |
+| 10°          | Mostabarth #53      | 0    |
+| 11°          | Sangerry #77        | 0    |
+| 12°          | Sapio82 #82         | 0    |
+| 13°          | Riccio #823         | 0    |
+| 14°          | Wakibaba #911       | 0    |
+
+
+
 
 
 ### Classifica Costruttori
