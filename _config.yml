@@ -21,7 +21,7 @@ repository               : "campionatoscarsoni/campionatoscarsoni.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "CIS_logo.jpg"
+  avatar           : "cis_logo.jpeg"
   name             : "CIS"
   pronouns         : # example: "she/her"  
   bio              : "Campionato Italiano Scarsoni"
