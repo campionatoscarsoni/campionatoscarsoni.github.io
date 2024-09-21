@@ -6,12 +6,14 @@ main:
   - title: "Calendario"
     url: /calendario/
 
+  - title: "Classifica"
+    url: /results/
+
   - title: "Teams & Piloti"
     url: /teams/
 
   # - title: "Publications"
   #   url: /publications/
-
 
   # - title: "Teaching"
   #   url: /teaching/    
