@@ -1,6 +1,6 @@
 ---
 title: "Quarto Trofeo Fermoni"
-excerpt: "By _Di Guido Valentino_ (19/04/2024)"
+excerpt: "By _Guido Valentino_ (19/04/2024)"
 collection: news
 ---
 
@@ -23,4 +23,4 @@ L’entusiasmo davvero altissimo, e i piloti già si danno battaglia nelle giorn
 
 In attesa dell’ufficialità di auto e squadre, con relative livree vi invitiamo ad assistere numerosi a questo campionato che si preannuncia pieno di sorprese, anche prima del semaforo verde di giovedì prossimo.
 
-_Di Guido Valentino_
+Di _Guido Valentino_
