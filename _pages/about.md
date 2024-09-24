@@ -14,8 +14,10 @@ Bene il CIS, **Campionato italiano Scarsoni** viene in vostro aiuto!
 Siamo un gruppo di persone come voi consapevoli di non aver alcun tipo di talento motoristico, e quindi perché non organizzare un campionato tutto nostro? Sia che siate piloti o spettatori potrete finalmente dire "meno male che ci sono loro che forse sono peggio di me."
 
 ## Latest News
-📰 [23/09 - Le Squadre Svelano Le Loro Carte](/news/24_09_23_presentazione) <br>
-📰 [19/09 - Quarto Trofeo Fermoni](/news/24_09_19_cis_news)
+📰 [24/09 - Scarsezza Presentazioni #3](/news/24_09_24_presentazione3) <br>
+📰 [24/09 - Scarsezza Presentazioni #2](/news/24_09_24_presentazione2) <br>
+📰 [23/09 - Scarsezza Presentazioni #1](/news/24_09_23_presentazione1) <br>
+📰 [19/09 - Quarto Trofeo Fermoni](/news/24_09_19_cis_news) <br>
 
 
 
