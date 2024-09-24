@@ -9,7 +9,7 @@ redirect_from:
 
 Stanchi di invidiare i piloti talentuosi ed essere consapevoleli di essere più lenti di un divano letto?
 
-Bene il CIS, **Campionato italiano Scarsoni** viene in vostro aiuto!
+Bene il CIS, **Campionato Italiano Scarsoni** viene in vostro aiuto!
 
 Siamo un gruppo di persone come voi consapevoli di non aver alcun tipo di talento motoristico, e quindi perché non organizzare un campionato tutto nostro? Sia che siate piloti o spettatori potrete finalmente dire "meno male che ci sono loro che forse sono peggio di me."
 
