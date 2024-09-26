@@ -14,8 +14,8 @@ collection: news
 D91, campione in carica (userà il numero 1, ndr), dopo la cavalcata della scorsa stagione, presenta la sua nuova vettura. Venuta a sorpresa la rescissione del contratto del secondo pilota pietrowade, per scarse prestazioni (a detta della dirigenza, ndr) si pensava potesse correre in solitaria. Invece, a pochi giorni dall’inizio del campionato, con delle trattative mantenute segrete fino all’ultimo, ha annunciato l’ingaggio del due volte campione CIS, F40Manfro. La sua deludente prestazione nel terzo Trofeo Fermoni non ha influito nella scelta da parte del team, rinominato per l’occasione DM Squadra Corse, che pone piena fiducia nei due alfieri. La dirigenza è convinta che due piloti di alta fascia potranno far progredire l’intera squadra e mantenerla ai vertici delle classifiche.
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="../news_images/team_dm1_news.jpeg" alt="Team DM 2" style="width:49%;"/>
-    <img src="../news_images/team_dm2_news.jpeg" alt="Team DM 1" style="width:49%;"/>
+    <img src="../news_images/team_dm1_news.jpeg" alt="Team DM 1" style="width:49%;"/>
+    <img src="../news_images/team_dm2_news.jpeg" alt="Team DM 2" style="width:49%;"/>
 </div>
 
 La vettura scelta è l’Audi R8 LMS GT3, auto di punta della casa dei quattro anelli che mette a disposizione un motore v10 da 5.2 litri, con 580 Cv di base. Auto però potenziata dal team per soddisfare i criteri definiti dal regolamento. F40Manfro, che torna al suo numero, il 22, ormai è una bandiera della casa di Ingolstadt, dato che sin dalla creazione di questo campionato ha scelto di rimanere in terra tedesca. I due piloti detentori della maggioranza dei record del campionato, attirano sponsor importanti come Gillette, partner ufficiale, che da la colorazione verde accesa della livrea. Inoltre, hanno deciso di mantenere qualche differenza di colorazione per distinguersi, con tonalità di rosso per il numero 1 e giallo per il 22. Riusciranno a portare i due titoli a casa?

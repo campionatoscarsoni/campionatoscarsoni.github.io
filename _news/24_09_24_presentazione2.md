@@ -17,8 +17,8 @@ Sapio82 presenta il Maronn team, unico pilota di questa neo squadra. Dopo l’ab
 La Aston Martin Vantage GT3 è la rappresentazione del Motorsport inglese e in segno di rispetto il Maronn team ha scelto di mantenere il classico verde inglese, che tanta fortuna ha portato in passato alla compagine di Gaydon.
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="../news_images/team_sapio2_news.jpeg" alt="Team Maronn 2" style="width:49%;"/>
-    <img src="../news_images/team_sapio1_news.jpeg" alt="Team Maronn 1" style="width:49%;"/>
+    <img src="../news_images/team_sapio2_news.jpeg" alt="Team Maronn 1" style="width:49%;"/>
+    <img src="../news_images/team_sapio1_news.jpeg" alt="Team Maronn 2" style="width:49%;"/>
 </div>
 
 Col suo v8 Mercedes turbocompresso da 4 litri a V di 90° posto anteriormente, come tradizione vuole, ha un palmares interessante con una vittoria alla 24 ore di Le Manso nel 2020 e la cittoria di categoria dello stesso anno. Possiamo quindi auspicarci prestazioni da parte di Sapio82 (che correrà con la tabella n82, ndr) di tutto rispetto nel corso della stagione. La vettura è comunque stata adeguata alle stingenti regole che il CIS impone per questo trofeo.
