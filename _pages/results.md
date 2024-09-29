@@ -43,16 +43,16 @@ author_profile: true
 
 | **Position** | **Team Name**            | **Points** |
 |--------------|--------------------------|------------|
-| 1°  | SM Racing              | 54 |
-| 2°  | DM Squadra Corse       | 52 |
-| 3°  | Team CCR               | 44 |
-| 4°  | Waki Racing Team       | 26 |
-| 5°  | Team Psico S.T.        | 21 |
-| 6°  | AMG Mercedes Ufficiale | 18 |
-| 7°  | FlanaCan Team          | 14 |
-| 7°  | Riccio Model Corsa     | 14 |
-| 8°  | Team Partenope         | 13 |
-| 9°  | J.G Team               | 12 |
-| 10° | Team Sparrow           | 7  |
-| 11° | Team Maronn            | 0  |
-
+| 1°  | SM Racing                 | 54 |
+| 2°  | DM Squadra Corse          | 52 |
+| 3°  | Team CCR                  | 44 |
+| 4°  | Waki Racing Team          | 26 |
+| 5°  | Team Psico S.T.           | 21 |
+| 6°  | AMG Mercedes Ufficiale    | 18 |
+| 7°  | FlanaCan Team             | 14 |
+| 7°  | Riccio Model Corsa        | 14 |
+| 8°  | Team Partenope            | 13 |
+| 9°  | J.G Team                  | 12 |
+| 10° | Team Sparrow              | 7  |
+| 11° | Team Maronn               | 0  |
+| 12° | Team I Nostalgici del '40 | 0  |
