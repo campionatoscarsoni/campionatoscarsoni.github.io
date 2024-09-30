@@ -27,5 +27,5 @@ collection: results
 | 15° | Sapio82 #82         | 0   | 0  | 0  |
 | 16° | Maxwhitedragon #23  | 0   | 0  | 0  |
 
-⚠️ **\***: giro più veloce in gara.
+⏱️ **\***: giro più veloce in gara.
 <hr style="border: 2px solid orange;" />
