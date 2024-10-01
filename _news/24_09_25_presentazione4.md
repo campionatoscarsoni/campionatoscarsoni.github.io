@@ -1,6 +1,6 @@
 ---
 title: "Scarsezza Presentazioni #4"
-excerpt: "By _Daniele Di Segna, Max Polemica, Ines Perta_ (25/04/2024)"
+excerpt: "By _Daniele Di Segna, Max Polemica, Ines Perta_ (25/09/2024)"
 collection: news
 ---
 

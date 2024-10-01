@@ -1,6 +1,6 @@
 ---
 title: "Al Via il Quarto Trofeo Fermoni"
-excerpt: "By _Guido Valentino_ (26/04/2024)"
+excerpt: "By _Guido Valentino_ (26/09/2024)"
 collection: news
 ---
 

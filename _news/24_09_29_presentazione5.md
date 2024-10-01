@@ -1,6 +1,6 @@
 ---
 title: "Scarsezza Presentazioni #5"
-excerpt: "By _Daniele Di Segna_ (29/04/2024)"
+excerpt: "By _Daniele Di Segna_ (29/09/2024)"
 collection: news
 ---
 

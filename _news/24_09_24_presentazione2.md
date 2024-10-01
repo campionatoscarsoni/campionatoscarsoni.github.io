@@ -1,6 +1,6 @@
 ---
 title: "Scarsezza Presentazioni #2"
-excerpt: "By _Daniele Di Segna, Ines Perta_ (24/04/2024)"
+excerpt: "By _Daniele Di Segna, Ines Perta_ (24/09/2024)"
 collection: news
 ---
 

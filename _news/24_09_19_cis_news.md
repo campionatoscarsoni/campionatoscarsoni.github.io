@@ -1,6 +1,6 @@
 ---
 title: "Quarto Trofeo Fermoni"
-excerpt: "By _Guido Valentino_ (19/04/2024)"
+excerpt: "By _Guido Valentino_ (19/09/2024)"
 collection: news
 ---
 

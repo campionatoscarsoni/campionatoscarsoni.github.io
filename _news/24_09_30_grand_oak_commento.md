@@ -1,6 +1,6 @@
 ---
 title: "Risultato GP Grand Oak"
-excerpt: "By _Guido Valentino_ (30/04/2024)"
+excerpt: "By _Guido Valentino_ (30/09/2024)"
 collection: news
 ---
 
