@@ -17,6 +17,7 @@ Siamo un gruppo di persone come voi consapevoli di non aver alcun tipo di talent
   <div style="flex: 1; padding: 10px;">
   <h2>Latest News</h2>
   <ul style="list-style-type: none; padding-left: 0;">
+    <li>🏆 <a href="/news/24_10_01_seconda_tappa">01/10 - II Tappa Trofeo Fermoni: Mugello</a></li>
     <li>🏁 <a href="/news/24_09_30_grand_oak_commento">30/09 - Risultato GP Grand Oak</a></li>
     <li>📰 <a href="/news/24_09_29_presentazione5">29/09 - Scarsezza Presentazioni #5</a></li>
     <li>🚥 <a href="/news/24_09_26_prima_tappa">26/09 - Via al Quarto Trofeo Fermoni</a></li>
