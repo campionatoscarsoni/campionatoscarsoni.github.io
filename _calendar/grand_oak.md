@@ -4,9 +4,51 @@ excerpt: ""
 collection: results
 ---
 
+<style>
+  .container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap; /* Allow wrapping on small screens */
+  }
+
+  .box {
+    flex: 1;
+    padding: 10px;
+    box-sizing: border-box; /* Prevents padding from affecting width */
+  }
+
+video {
+    width: 480px;
+    height: 270px;
+    margin-right: 20px;
+}
+
+  /* Media query for smaller screens */
+  @media (max-width: 768px) {
+    .container {
+      flex-direction: column; /* Stack the divs vertically */
+    }
+  }
+</style>
+
 <hr style="border: 2px solid orange;" />
 
-**Pole Position:** _Polano#42_
+<div class="container">
+    <div class="box">
+        <p>
+            <b>Pole Position</b>: <em>Polano#42</em><br>
+            <b>Time</b>: <em>1:11.346</em>
+        </p>
+    </div>
+    <div class ="box">
+        <video controls>
+            <source src="/files/pole_grand_oak.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    </div>
+</div>
+
+### Race Results
 
 | **Position** | **Pilot Name**      | **Gara 1** | **Gara 2** | **Total** |
 |--------------|---------------------|------------|------------|-----------|
