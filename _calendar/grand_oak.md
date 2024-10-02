@@ -37,7 +37,8 @@ video {
     <div class="box">
         <p>
             <b>Pole Position</b>: <em>Polano#42</em><br>
-            <b>Time</b>: <em>1:11.346</em>
+            <b>Time</b>: <em>1:11.346</em><br>
+            <b>Commento</b>: <em>F40Manfro</em>
         </p>
     </div>
     <div class ="box">
