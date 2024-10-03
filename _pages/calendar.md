@@ -13,8 +13,8 @@ redirect_from:
 
 | **Round** | **Date**     | **Circuit Name**                           | **Winner**            |
 |-----------|--------------|--------------------------------------------|-----------------------|
-| 1°        |  26/09/2024  | Grand Oak Raceway, Circuito Nazionale      | [_Polano#42_](/calendar/grand_oak) |
-| 2°        |  02/10/2024  | Mugello, Circuito Completo                 | [Winner](#) |
+| 1°        |  26/09/2024  | Grand Oak Raceway, Circuito Nazionale      | [_Polano #42_](/calendar/grand_oak) |
+| 2°        |  02/10/2024  | Mugello, Circuito Completo                 | [_Pietrowade #9_](/calendar/mugello) |
 | 3°        |              | Barcellona-Catalunya, Circuito Gran Premio | [Winner](#) |
 | 4°        |              | Hockenheimring, Circuito Completo          | [Winner](#) |
 | 5°        |              | Spa Francorchamps                          | [Winner](#) |
@@ -26,6 +26,5 @@ redirect_from:
 
 
 ## Risultati
-{% for post in site.calendar %}
-  {% include archive-single.html %}
-{% endfor %}
+🏁 I Tappa: [Grand Oak Raceway](/calendar/grand_oak) <br>
+🏁 II Tappa: [Mugello](/calendar/mugello) <br>

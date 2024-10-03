@@ -37,7 +37,7 @@ video {
     <div class="box">
         <p>
             <b>Pole Position</b>: <em>Polano#42</em><br>
-            <b>Time</b>: <em>1:11.346</em><br>
+            <b>Time</b>: <em>1:11.346</em> (Meteo 🌥️)<br>
             <b>Commento</b>: <em>F40Manfro</em>
         </p>
     </div>
@@ -70,5 +70,5 @@ video {
 | 15° | Sapio82 #82         | 0   | 0  | 0  |
 | 16° | Maxwhitedragon #23  | 0   | 0  | 0  |
 
-⏱️ **\***: giro più veloce in gara.
+⏱️ **\***: giro più veloce in gara (1 punto extra).
 <hr style="border: 2px solid orange;" />
