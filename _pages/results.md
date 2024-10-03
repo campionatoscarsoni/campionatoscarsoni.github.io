@@ -19,24 +19,25 @@ author_profile: true
 
 ### Classifica Piloti
 
-| **Position** | **Pilot Name**      | **Points**  |
-|--------------|---------------------|-------------|
-| 1°  | Pietrowade #9       | 68 |
-| 2°  | D91 #1              | 55 |
-| 3°  | Polano #42          | 54 |
-| 4°  | F40Manfro #22       | 53 |
-| 5°  | Eliakoby #11        | 48 |
-| 6°  | Giumir46 #46        | 42 |
-| 7°  | SanGerry #77        | 36 |
-| 8°  | Marieleveze #10     | 32 |
-| 9°  | Nicola Slevin #7    | 31 |
-| 10° | ReYz Iann #29       | 30 |
-| 11° | Riccio #823         | 29 |
-| 12° | Wakibaba #4         | 26 |
-| 13° | Mostabarth #53      | 20 |
-| 14° | Sprigbead9108 #41   | 12 |
-| 15° | Sapio82 #82         | 0  |
-| 16° | Maxwhitedragon #23  | 0  | 
+| **Position** | **Pilot Name**      | **Team**        | **Points**  |
+|--------------|---------------------|-----------------|-------------|
+| 1°  | Pietrowade #9       | SM Racing                 | 68 |
+| 2°  | D91 #1              | DM Squadra Corse          | 55 |
+| 3°  | Polano #42          | Team CCR                  | 54 |
+| 4°  | F40Manfro #22       | DM Squadra Corse          | 53 |
+| 5°  | Eliakoby #11        | SM Racing                 | 48 |
+| 6°  | Giumir46 #46        | Team Psico S.T.           | 42 |
+| 7°  | SanGerry #77        | AMG Mercedes Ufficiale    | 36 |
+| 8°  | Marieleveze #10     | FlanaCan Team             | 32 |
+| 9°  | Nicola Slevin #7    | Team Partenope            | 31 |
+| 10° | ReYz Iann #29       | Team CCR                  | 30 |
+| 11° | Riccio #823         | Riccio Model Corsa        | 29 |
+| 12° | Wakibaba #4         | Waki Racing Team          | 26 |
+| 13° | Mostabarth #53      | Team Sparrow              | 20 |
+| 14° | Sprigbead9108 #41   | J.G Team                  | 12 |
+| 15° | Sapio82 #82         | Team Maronn               | 0  |
+| 16° | Maxwhitedragon #23  | Team I Nostalgici del '40 | 0  |
+
 
 
 ### Classifica Costruttori
