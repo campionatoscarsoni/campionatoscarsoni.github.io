@@ -38,6 +38,7 @@ Siamo un gruppo di persone come voi consapevoli di non aver alcun tipo di talent
   <div class="box">
   <h2>Latest News</h2>
   <ul style="list-style-type: none; padding-left: 0;">
+    <li>🏁 <a href="/news/24_10_07_mugello_commento">07/10 - Risultato GP Mugello</a></li>
     <li>📢 <a href="/calendar/grand_oak">02/10 - Commento Pole Grand Oak</a></li>
     <li>🏆 <a href="/news/24_10_01_seconda_tappa">01/10 - II Tappa Trofeo Fermoni: Mugello</a></li>
     <li>🏁 <a href="/news/24_09_30_grand_oak_commento">30/09 - Risultato GP Grand Oak</a></li>

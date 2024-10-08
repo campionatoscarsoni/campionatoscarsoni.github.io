@@ -15,7 +15,7 @@ redirect_from:
 |-----------|--------------|--------------------------------------------|-----------------------|
 | 1°        |  26/09/2024  | Grand Oak Raceway, Circuito Nazionale      | [_Polano #42_](/calendar/grand_oak) |
 | 2°        |  02/10/2024  | Mugello, Circuito Completo                 | [_Pietrowade #9_](/calendar/mugello) |
-| 3°        |              | Barcellona-Catalunya, Circuito Gran Premio | [Winner](#) |
+| 3°        |  10/10/2024  | Barcellona-Catalunya, Circuito Gran Premio | [Winner](#) |
 | 4°        |              | Hockenheimring, Circuito Completo          | [Winner](#) |
 | 5°        |              | Spa Francorchamps                          | [Winner](#) |
 | 6°        |              | Daytona Intl Speedway, Circuito Auto Sportive | [Winner](#) |

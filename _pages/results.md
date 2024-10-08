@@ -44,8 +44,8 @@ author_profile: true
 
 | **Position** | **Team Name**            | **Points** |
 |--------------|--------------------------|------------|
-| 1°  | DM Squadra Corse          | 116 |
-| 2°  | SM Racing                 | 108 |
+| 1°  | SM Racing                 | 116 |
+| 2°  | DM Squadra Corse          | 108 |
 | 3°  | Team CCR                  | 84 |
 | 4°  | Team Psico S.T.           | 42 |
 | 5°  | AMG Mercedes Ufficiale    | 36 |
