@@ -43,7 +43,7 @@ video {
     </div>
     <div class ="box">
         <video controls>
-          <source src="/files/pole_mugello.mp4" type="video/mp4">
+          <source src="https://github.com/campionatoscarsoni/campionatoscarsoni.github.io/raw/refs/heads/master/files/pole_mugello.mp4?download=" type="video/mp4">
           Your browser does not support the video tag.
         </video>
     </div>
