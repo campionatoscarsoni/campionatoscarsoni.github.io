@@ -42,7 +42,10 @@ video {
         </p>
     </div>
     <div class ="box">
-        🎬 Il commento della poleposition presto disponibile!
+        <video controls>
+          <source src="/files/pole_mugello.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
     </div>
 </div>
 
