@@ -17,28 +17,28 @@ author_profile: true
 
 ## Quarto Campionato CIS (2024)
 
-🏁 Classifica aggiornata dopo 3/10 gare.
+🏁 Classifica aggiornata dopo 4/10 gare.
 
 ### Classifica Piloti
 
 | **Position** | **Pilot Name**      | **Team**        | **Points**  |
 |--------------|---------------------|-----------------|-------------|
-| 1°  | Pietrowade #9       | SM Racing                 | 100 |
-| 2°  | D91 #1              | DM Squadra Corse          | 84 |
-| 3°  | F40Manfro #22       | DM Squadra Corse          | 82 |
-| 4°  | Polano #42          | Team CCR                  | 78 |
-| 5°  | Eliakoby #11        | SM Racing                 | 71 |
-| 6°  | SanGerry #77        | AMG Mercedes Ufficiale    | 59 |
-| 7°  | Giumir46 #46        | Team Psico S.T.           | 53 |
-| 8°  | Wakibaba #4         | Waki Racing Team          | 52 |
-| 9°  | Nicola Slevin #7    | Team Partenope            | 49 |
-| 10° | Marieleveze #10     | FlanaCan Team             | 44 |
-| 11° | ReYz Iann #29       | Team CCR                  | 43 |
-| 12° | Riccio #823         | Riccio Model Corsa        | 41 |
+| 1°  | Pietrowade #9       | SM Racing                 | 133 |
+| 2°  | Polano #42          | Team CCR                  | 110 |
+| 3°  | D91 #1              | DM Squadra Corse          | 108 |
+| 4°  | F40Manfro #22       | DM Squadra Corse          | 107 |
+| 5°  | Eliakoby #11        | SM Racing                 | 99 |
+| 6°  | SanGerry #77        | AMG Mercedes Ufficiale    | 81 |
+| 7°  | Nicola Slevin #7    | Team Partenope            | 70 |
+| 8°  | Marieleveze #10     | FlanaCan Team             | 59 |
+| 8°  | Riccio #823         | Riccio Model Corsa        | 59 |
+| 10° | Wakibaba #4         | Waki Racing Team          | 57 |
+| 10° | ReYz Iann #29       | Team CCR                  | 57 |
+| 12° | Giumir46 #46        | Team Psico S.T.           | 53 |
 | 13° | Mostabarth #53      | Team Sparrow              | 20 |
-| 14° | Sapio82 #82         | Team Maronn               | 17 |
-| 15° | Sprigbead9108 #41   | J.G Team                  | 12 |
-| 16° | Maxwhitedragon #23  | Team I Nostalgici del '40 | 0  |
+| 14° | Maxwhitedragon #23  | Team I Nostalgici del '40 | 19 |
+| 15° | Sapio82 #82         | Team Maronn               | 17 |
+| 16° | Sprigbead9108 #41   | J.G Team                  | 12 |
 
 
 
@@ -46,16 +46,16 @@ author_profile: true
 
 | **Position** | **Team Name**            | **Points** |
 |--------------|--------------------------|------------|
-| 1°  | SM Racing                 | 171 |
-| 2°  | DM Squadra Corse          | 166 |
-| 3°  | Team CCR                  | 121 |
-| 4°  | AMG Mercedes Ufficiale    | 59 |
-| 5°  | Team Psico S.T.           | 53 |
-| 6°  | Waki Racing Team          | 52 |
-| 7°  | Team Partenope            | 49 |
-| 8°  | FlanaCan Team             | 44 |
-| 9°  | Riccio Model Corsa        | 41 |
+| 1°  | SM Racing                 | 232 |
+| 2°  | DM Squadra Corse          | 215 |
+| 3°  | Team CCR                  | 167 |
+| 4°  | AMG Mercedes Ufficiale    | 81 |
+| 5°  | Team Partenope            | 70 |
+| 6°  | FlanaCan Team             | 59 |
+| 6°  | Riccio Model Corsa        | 59 |
+| 8°  | Waki Racing Team          | 57 |
+| 9°  | Team Psico S.T.           | 53 |
 | 10° | Team Sparrow              | 20 |
-| 11° | Team Maronn               | 17 |
-| 12° | J.G Team                  | 12 |
-| 13° | Team I Nostalgici del '40 | 0  |
+| 11° | Team I Nostalgici del '40 | 19 |
+| 12° | Team Maronn               | 17 |
+| 13° | J.G Team                  | 12 |
