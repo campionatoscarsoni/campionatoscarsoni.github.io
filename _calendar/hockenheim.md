@@ -71,6 +71,6 @@ video {
 | 13° | Sprigbead9108 #41   | J.G Team                  | 0  | 0  | 0  |
 | 13° | Sapio82 #82         | Team Maronn               | 0  | 0  | 0  |
 
-⏱️ **\***: giro più veloce in gara (1 punto extra).
+⏱️ **\***: giro più veloce in gara (1 punto extra).<br>
 ⚠️ **^**: penalità assegnata.<br>
 <hr style="border: 2px solid orange;" />
