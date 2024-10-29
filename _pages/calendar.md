@@ -18,7 +18,7 @@ redirect_from:
 | 3°        |  10/10/2024  | Barcellona-Catalunya, Circuito Gran Premio | [_Pietrowade #9_](/calendar/catalunya) |
 | 4°        |  17/10/2024  | Hockenheimring, Circuito Completo          | [_Pietrowade #9_](/calendar/hockenheim) |
 | 5°        |  24/10/2024  | Spa Francorchamps                          | [_Pietrowade #9_](/calendar/spa) |
-| 6°        |              | Daytona Intl Speedway, Circuito Auto Sportive | [Winner](#) |
+| 6°        |  07/11/2024  | Daytona Intl Speedway, Circuito Auto Sportive | [Winner](#) |
 | 7°        |              | Kyalami                                    | [Winner](#) |
 | 8°        |              | Sebring Intl Raceway, Circuito Completo    | [Winner](#) |
 | 9°        |              | Yas Marina, Circuito Completo              | [Winner](#) |

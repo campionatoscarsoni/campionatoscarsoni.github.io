@@ -37,16 +37,16 @@ video {
     <div class="box">
         <p>
             <b>Pole Position</b>: <em>Polano#42</em><br>
-            <b>Time</b>: <em>2:18.418</em> (Meteo 🌩️)<br>
+            <b>Time</b>: <em>2:18.418</em> (Meteo ☀️)<br>
             <b>Commento</b>: <em>F40Manfro</em>
         </p>
     </div>
     <div class ="box">
-        <em>Presto disponibile il commento del Pole Position!</em> 🎬
-        <!-- <video controls>
-          <source src="https://github.com/campionatoscarsoni/campionatoscarsoni.github.io/raw/refs/heads/master/files/pole_mugello.mp4?download=" type="video/mp4">
+        <!-- <em>Presto disponibile il commento del Pole Position!</em> 🎬 -->
+        <video controls>
+          <source src="https://github.com/campionatoscarsoni/campionatoscarsoni.github.io/raw/refs/heads/master/files/pole_spa.mp4?download=" type="video/mp4">
           Your browser does not support the video tag.
-        </video> -->
+        </video>
     </div>
 </div>
 
@@ -58,9 +58,9 @@ video {
 | 2°  | Polano #42          | Team CCR                  | 18 | 13 | 32 |
 | 3°  | Sangerry #77        | AMG Mercedes Ufficiale    | 12 | 16 | 28 |
 | 4°  | Nicola Slevin #7    | Team Partenope            | 10 | 14 | 24 |
-| 5°  | D91 #1              | DM Squadra Corse          | 14 | 7**\*** | 22 |
+| 5°  | D91 #1              | DM Squadra Corse          | 14 | 7**\*** | 22**^** |
 | 6°  | Eliakoby #11        | SM Racing                 | 11 | 10 | 21 |
-| 6°  | F40Manfro #22       | DM Squadra Corse          | 13 | 8  | 21 |
+| 6°  | F40Manfro #22       | DM Squadra Corse          | 13 | 8  | 21**^** |
 | 6°  | Riccio #823         | Riccio Model Corsa        | 9  | 12 | 21 |
 | 9°  | Sapio82 #82         | Team Maronn               | 7  | 11 | 18 |
 | 10° | ReYz Iann #29       | Team CCR                  | 8  | 9  | 17 |

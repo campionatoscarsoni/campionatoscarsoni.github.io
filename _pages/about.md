@@ -38,6 +38,9 @@ Siamo un gruppo di persone come voi consapevoli di non aver alcun tipo di talent
   <div class="box">
   <h2>Latest News</h2>
   <ul style="list-style-type: none; padding-left: 0;">
+    <li>🏁 <a href="/news/24_10_28_spa_commento">28/10 - Risultato GP Spa Francorchamps</a></li>
+    <li>📢 <a href="/calendar/spa">27/10 - Commento Pole Spa Francorchamps</a></li>
+    <li>📢 <a href="/calendar/hockenheim">26/10 - Commento Pole Hockenheim</a></li>
     <li>🏆 <a href="/news/24_10_24_quinta_tappa">24/10 - V Tappa Trofeo Fermoni: Spa Francorchamps</a></li>
     <li>🏁 <a href="/news/24_10_23_hockenheim_commento">23/10 - Risultato GP Hockenheim</a></li>
     <li>🏆 <a href="/news/24_10_15_quarta_tappa">15/10 - IV Tappa Trofeo Fermoni: Hockenheim</a></li>
